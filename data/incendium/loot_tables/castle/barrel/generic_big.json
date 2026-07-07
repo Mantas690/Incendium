@@ -116,4 +116,69 @@
       ]
     }
   ]
+},
+{
+  "rolls": 1,
+  "entries": [
+    {
+      "type": "minecraft:item",
+      "name": "minecraft:netherite_helmet",
+      "conditions": [
+        {
+          "condition": "minecraft:random_chance",
+          "chance": 0.03
+        }
+      ]
+    },
+    {
+      "type": "minecraft:item",
+      "name": "minecraft:netherite_boots",
+      "conditions": [
+        {
+          "condition": "minecraft:random_chance",
+          "chance": 0.03
+        }
+      ]
+    },
+    {
+      "type": "minecraft:item",
+      "name": "minecraft:netherite_pickaxe",
+      "conditions": [
+        {
+          "condition": "minecraft:random_chance",
+          "chance": 0.03
+        }
+      ]
+    },
+    {
+      "type": "minecraft:item",
+      "name": "minecraft:netherite_shovel",
+      "conditions": [
+        {
+          "condition": "minecraft:random_chance",
+          "chance": 0.03
+        }
+      ]
+    },
+    {
+      "type": "minecraft:item",
+      "name": "minecraft:netherite_hoe",
+      "conditions": [
+        {
+          "condition": "minecraft:random_chance",
+          "chance": 0.03
+        }
+      ]
+    },
+    {
+      "type": "minecraft:item",
+      "name": "minecraft:netherite_spear",
+      "conditions": [
+        {
+          "condition": "minecraft:random_chance",
+          "chance": 0.03
+        }
+      ]
+    }
+  ]
 }
